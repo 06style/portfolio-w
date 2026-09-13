@@ -111,15 +111,14 @@ https://06style.github.io/portfolio-w/
 
 ## 📸 Screenshots
 
-Screenshots of the portfolio website can be added here to demonstrate the desktop and mobile versions of the project.
+### 1. Home / Hero Section
+![Home / Hero Section](images/ss.png)
 
-Example:
+### 2. Skills Section
+The portfolio includes categorized skills covering programming, frontend development, databases, and development tools.
 
-```text
-screenshots/
-├── desktop.png
-└── mobile.png
-```
+### 3. Projects Section
+The projects section showcases FinTrack, Personal Portfolio, and Club Registration Portal with project details and links.
 
 ## 💡 Technical Details
 
